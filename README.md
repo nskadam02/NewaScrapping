@@ -1,1 +1,1 @@
-# NewaScrapping
+# NewsScrapping
